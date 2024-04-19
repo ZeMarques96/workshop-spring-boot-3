@@ -14,10 +14,10 @@ O Web service consiste em um projeto Spring Boot estruturado em camadas lógicas
 *This web service is a Spring Boot which is estructured in logical layers: Resource, Service and Repository, and those operations, Create, Retrieve, Update, and Delete (CRUD), are also available.*
 
 ## Diagrama UML
-![UML - Domain](https://github.com/ZeMarques96/workshop-uml/blob/main/Screenshot_1.png) ![Domain Instance](https://github.com/ZeMarques96/workshop-uml/blob/main/Screenshot_2.png)
+![UML - Domain](https://github.com/ZeMarques96/images-for-projects/blob/main/workshop-spring-boot/Screenshot_1.png) ![Domain Instance](https://github.com/ZeMarques96/images-for-projects/blob/main/workshop-spring-boot/Screenshot_2.png)
 
 ## Logical Layers
-![Logical Layers](https://github.com/ZeMarques96/workshop-uml/blob/main/Screenshot_3.png)
+![Logical Layers](https://github.com/ZeMarques96/images-for-projects/blob/main/workshop-spring-boot/Screenshot_3.png)
 
 
 ## Tecnologias utilizadas
